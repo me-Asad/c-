@@ -1,0 +1,10 @@
+C:\Users\Student\Desktop\asad c#\class2\class2\bin\Debug\class2.exe.config
+C:\Users\Student\Desktop\asad c#\class2\class2\bin\Debug\class2.exe
+C:\Users\Student\Desktop\asad c#\class2\class2\bin\Debug\class2.pdb
+C:\Users\Student\Desktop\asad c#\class2\class2\obj\Debug\class2.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\asad c#\class2\class2\obj\Debug\class2.Form1.resources
+C:\Users\Student\Desktop\asad c#\class2\class2\obj\Debug\class2.Properties.Resources.resources
+C:\Users\Student\Desktop\asad c#\class2\class2\obj\Debug\class2.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\asad c#\class2\class2\obj\Debug\class2.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\asad c#\class2\class2\obj\Debug\class2.exe
+C:\Users\Student\Desktop\asad c#\class2\class2\obj\Debug\class2.pdb
