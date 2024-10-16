@@ -1,0 +1,12 @@
+C:\Users\Student\Desktop\asad\class5.menustrip\bin\Debug\class5.menustrip.exe.config
+C:\Users\Student\Desktop\asad\class5.menustrip\bin\Debug\class5.menustrip.exe
+C:\Users\Student\Desktop\asad\class5.menustrip\bin\Debug\class5.menustrip.pdb
+C:\Users\Student\Desktop\asad\class5.menustrip\obj\Debug\class5.menustrip.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\asad\class5.menustrip\obj\Debug\class5.menustrip.Form1.resources
+C:\Users\Student\Desktop\asad\class5.menustrip\obj\Debug\class5.menustrip.Properties.Resources.resources
+C:\Users\Student\Desktop\asad\class5.menustrip\obj\Debug\class5.menustrip.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\asad\class5.menustrip\obj\Debug\class5.menustrip.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\asad\class5.menustrip\obj\Debug\class5.menustrip.exe
+C:\Users\Student\Desktop\asad\class5.menustrip\obj\Debug\class5.menustrip.pdb
+C:\Users\Student\Desktop\asad\class5.menustrip\obj\Debug\class5.menustrip.Menustrip.resources
+C:\Users\Student\Desktop\asad\class5.menustrip\obj\Debug\class5.menustrip.loadingpage.resources
